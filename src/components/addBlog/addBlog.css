@@ -1,0 +1,21 @@
+.container-add{
+    padding: 30px;
+}
+
+.heading-add{
+    font-size: 24px;
+}
+
+.form-group{
+    padding-bottom: 5px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.error-message{
+    color: red;
+}

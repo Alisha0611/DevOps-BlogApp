@@ -1,0 +1,11 @@
+.category{
+    background-color: #d9465c;
+    color: #fff;
+    padding: 6px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.liked {
+    color: blue; 
+  }

@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.back-btn{
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #d9465c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.back-btn:hover{
+  background-color: #3d5f6c;
+  color: #fff;
+}

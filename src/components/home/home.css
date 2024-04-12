@@ -1,0 +1,41 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 100vh;
+    padding: 0px 20px;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+.content h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+.btn-area .btn {
+    margin: 10px 0px;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #d9465c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn-area .btn:hover{
+    background-color: #3d5f6c;
+    color: #fff;
+}
+
+.btnn{
+    margin-right: 10px;
+}

@@ -1,0 +1,46 @@
+.container-list {
+    padding: 30px;
+}
+
+.heading-list {
+    font-size: 24px;
+}
+
+.bloglist {
+    list-style: none;
+    padding: 10px 0px;
+}
+
+.bloglist li {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #3d5f6c;
+    transition: background-color 0.3s, color 0.3s;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.bloglist li:hover {
+    background-color: #d9465c;
+}
+
+.edit-icon, .delete-icon{
+    color: #fff;
+}
+
+.list-content{
+    float: right;
+}
+
+.edit-icon{
+    margin-right: 30px;
+}
+
+.newpost{
+    margin-right: 20px;
+}
